@@ -7,6 +7,7 @@
 *.pyc
 old/
 mnist/
+data/
 caffe/
 grasp/
 images/
@@ -17,9 +18,6 @@ submission/
 cfg/
 darknet
 .fuse*
-Dataset/
-darknet53.conv.74
-yolov3.weights
 
 # OS Generated #
 .DS_Store*
